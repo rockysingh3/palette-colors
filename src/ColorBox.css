@@ -90,6 +90,7 @@
     transform: scale(0.4);
     opacity: 0;
     color: white;
+    flex-direction: column;
 }
 
 
